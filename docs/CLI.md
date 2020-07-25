@@ -44,4 +44,4 @@ Lists dependencies.
 | `transformer` | Specify a custom transformer to be used |
 | `max-workers` | Specifies the maximum number of workers the worker-pool will spawn for transforming files. This defaults to the number of the cores available on your machine. |
 | `dev` | If false, skip all dev-only code path |
-| `verbose` | Enables logging |
+| `verbose` |disable other user logging
